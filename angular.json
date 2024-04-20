@@ -27,19 +27,19 @@
             "styles": [
               "src/styles.css",
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
-              "src/css/magnific-popup.css",
-              "src/css/templatemo-first-portfolio-style.css"
+              "src/assets/css/magnific-popup.css",
+              "src/assets/css/templatemo-first-portfolio-style.css"
               
             ],
             "scripts": [
               "node_modules/bootstrap/dist/js/bootstrap.bundle.js",
-              "src/js/jquery.min.js",
-              "src/js/bootstrap.min.js",
-              "src/js/jquery.sticky.js",
-              "src/js/click-scroll.js",
-              "src/js/jquery.magnific-popup.min.js",
-              "src/js/magnific-popup-options.js",
-              "src/js/custom.js"
+              "src/assets/js/jquery.min.js",
+              "src/assets/js/bootstrap.min.js",
+              "src/assets/js/jquery.sticky.js",
+              "src/assets/js/click-scroll.js",
+              "src/assets/js/jquery.magnific-popup.min.js",
+              "src/assets/js/magnific-popup-options.js",
+              "src/assets/js/custom.js"
             ]
           },
           "configurations": {

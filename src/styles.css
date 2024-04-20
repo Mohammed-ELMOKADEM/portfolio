@@ -1,4 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+@import "../src/assets/css/templatemo-first-portfolio-style.css";
+@import "../src/assets/css/magnific-popup.css";
 
 @import url("../node_modules/bootstrap-icons/font/bootstrap-icons.css");
 @import url("https://fonts.googleapis.com");
