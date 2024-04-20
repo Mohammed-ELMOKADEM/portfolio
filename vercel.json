@@ -1,0 +1,8 @@
+{
+    "build": {
+      "optimize": {
+        "minify": false,
+        "compress": false
+      }
+    }
+  }
